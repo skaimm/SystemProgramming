@@ -1,0 +1,29 @@
+1 Abdulhamit Unalan 02268155735 Idari ve Mali Isler Daire Baskanligi
+2 Ars. Gor. Ufuk Demirkan 02268155085 Hukuk Fakultesi ( ARASTIRMA GOREVLISI )
+3 Dr. Ogr. Uyesi Ugur Bekir Dilek 02268155085 Islam Hukuku ABD Baskani
+4 Ars. Gor. Nazmi Sener 02268155362 Endustri Muhendisligi Bolumu Ogretim Elemani
+5 Nuran Demirel 02268155700 Fen Bilimleri Enstitusu Memur
+6 Doc. Dr. Didem Saloglu Dertli 02268155696 Kimya ve Surec Muhendisligi Bolumu Ogretim Elemani
+7 Dr. Ogr. Uyesi Dilek Culha 02268156269 Grafik Tasarimi Bolumu Ogretim Elemani
+8 Doc. Dr. Suleyman Berk 02268155237 Ýslam Tarihi ve Sanatlarý Bolumu ( BOLUM BASKANI )
+9 Cay Ocagi 02268155999
+10 Ogr. Gor. Hakan Kahramaner 02268155533 Deniz Ve Liman Isletmeciligi Programi Ogretim Elemani
+11 Ogr. Gor. Harun Ozdemir 02268155603 Malzeme ve Malzeme Isletme Teknolojileri Ogretim Elemani
+12 Omer Kesici 02268155737 EBYS Memur
+13 02268155764 Ogrenci Isleri Daire Baskanligi
+14 Veysi Dundar 02268156130 Islami Ilimler Memurlar
+15 Dr. Ogr. Uyesi Onur Unlu 02268155156 Isletme Bolumu Ogretim Elemani
+16 Ogr. Gor. Oguzhan Kose 02268155932 Dýs Iliskiler Koordinatoru
+17 Prof. Dr. Ayse Tansel Çetin 02268155117 Isletme Bolumu Ogretim Elemani
+18 Dr. Ogr. Uyesi Aytug Sozuer 02268156435 Uluslararasý Ticaret Ve Finansman Bolumu Ogretim Elemani
+19 Prof. Dr. Mehmet Atilla Tasdelen 02268155412 Bilimsel Arastýrma Projeleri Koordinatoru
+20 Prof. Dr. Metin Canci 02268156103 Siber Guvenlik Uygulama ve Arastirma Merkezi Danisma Kurulu Uyesi
+21 Doc. Dr. Peri Uran Murphy 02268155036 Anayasa Hukuku ABD Ogretim Elemani
+23 Dr. Ogr. Uyesi Kubra Deren Ekici 02268155461 Halkla Ýliskiler Ve Tanitim Programi Ogretim Uyesi
+24 Kader Selvi Baydemir 02268155600 Tekstil-Giyim,Ayakkabi ve Deri Bolumu Memur
+25 Dr. Ogr. Uyesi Gunes Harman 02268155336 Bilgisayar Muhendisligi Bolumu Ogretim Elemani
+26 Galip Ragbetli 02268155863 Yapim Uygulama Sube Mudurlugu Memur
+27 Gamze Ayyildiz 02268155813 EBYS Memur
+28 Burcin Yavuz 02268155701 Fen Bilimleri Enstitusu Enstitu Sekreteri
+29 Bulent Yesilyurt 02268155686 Yabanci Diller Yuksekokulu ( SEF )
+30 Doc. Dr. Bakkar Al Haj Jasem Disardan Gelen Ogretim Elemanlari
